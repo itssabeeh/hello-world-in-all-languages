@@ -7,7 +7,7 @@ Contributed by: Nithin
 using namespace std;
 
 int main()
-{
-    cout<<"Helloo...welcome to programming world";
+{   cout<<"Hi everyone";
+    cout<<"welcome to programming world";
     return 0;
 }
